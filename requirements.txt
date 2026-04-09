@@ -1,10 +1,5 @@
-text
 streamlit
 matplotlib
 networkx
 fpdf
 periodictable
-from fpdf import FPDF
-from datetime import datetime
-mensaje_salida = st.empty()
-main_container = st.empty()
